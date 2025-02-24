@@ -2,6 +2,7 @@
 Desenvolvedor, apaixonado por futebol e amante dos games.
 
 -🛠️ Já me aventurei com Python, JavaScript e Angular
+
 -🔥 Hoje meu foco é em Backend utilizando Java.
 
 
