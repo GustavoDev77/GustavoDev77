@@ -1,8 +1,9 @@
 # Fala pessoal, meu nome é Gustavo!
 Desenvolvedor, apaixonado por futebol e amante dos games.
 
-## 🛠️ Tecnologias
-- Java, Python, JavaScript, HTML/CSS
+-🛠️ Já me aventurei com Python, JavaScript e Angular
+-🔥 Hoje meu foco é em Backend utilizando Java.
 
-## 📫 Como me encontrar
+
+## 📫 Me encontra no LinkedIn :D
 - [LinkedIn](https://www.linkedin.com/in/gustavopaganucci)
