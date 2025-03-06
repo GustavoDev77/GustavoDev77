@@ -8,6 +8,6 @@ Desenvolvedor, apaixonado por futebol e amante dos games.
 
 ## 📫 Me encontra no LinkedIn :D
 - [LinkedIn](https://www.linkedin.com/in/gustavopaganucci)
-## 👀 Lista de filmes para assistir:
+## 👀 LEMBRETE: Lista de filmes que eu ainda não assisti 
 - CRUZADA
 - AINDA ESTOU AQUI
